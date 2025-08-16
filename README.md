@@ -9,5 +9,9 @@ Updates location data every 5 seconds.
 Outputs data in JSON format for easy use in APIs or UI projects.
 Clean and modular code with scope for adding more buses or changing speed.
 
+Linkedin profile: Dendi Priyanka Reddy
+https://www.linkedin.com/in/dendi-priyanka-reddy-102974270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+
 
 
